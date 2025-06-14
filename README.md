@@ -30,4 +30,4 @@ Administracion de ventas
 ![Captura de pantalla 2025-05-30 222916](https://github.com/user-attachments/assets/1815e6ca-565a-4f84-a3ea-139356ea8859)
 
 
-Trabajando en mejoras, pero es funcional.
+Trabajando en mejoras, pero es totalmente funcional.
