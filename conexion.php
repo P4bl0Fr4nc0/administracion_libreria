@@ -25,10 +25,10 @@ mysql_select_db('libreria') or die ('No se encuentra basename'.mysql_error());
 }
 */
 
-$server = "localhost";
-$user ="root";
-$password ="trancemusik";
-$db="libreria";
+$server = "tu-servidor";
+$user ="tu-usuario";
+$password ="tu-contraseña";
+$db="tu-base-de-datos";
 
 $conexion = new mysqli($server,$user,$password,$db);
 $conexion->set_charset("utf8mb4");
