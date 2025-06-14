@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Rubik:300,400,500');
+
+#contenedor {
+    
+    width: 300px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+h1{
+font-size: 25px;
+ font-family: 'Open Sans', sans-serif;
+text-align: center;
+    margin-bottom: 15px;
+
+}
+
+img{
+    margin-left: px;
+    margin-bottom: 10px;
+}
+
+h2{
+font-size: 18px;
+font-family: 'Open Sans', sans-serif;
+text-align: center;    
+
+    
+}
+
+
+button {
+
+   background-color: rgba(46,46,46,0.9);
+    color:white;
+    cursor:pointer;
+    width: 140px;
+    height: 30px;
+    border-color: white;
+    border: 1px solid;
+    margin-left: 2px;    
+    border-radius: 2px;
+}
+
+form {
+    width: 140px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
